@@ -1,0 +1,3 @@
+while wait() do
+   game.ReplicatedStorage.rbxts_include.node_modules.net.out._NetManaged.CLIENT_CAST_FISHING_ROD:InvokeServer({["playerLocation"] = ,["direction"] = ,["strength"] = 0.9437128702799479})
+end
